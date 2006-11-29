@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.4) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 29 Nov 2006 17:58:40 +0100
+
 kanotix2sidux (5:0.3) unstable; urgency=low
 
   * remove kanotix-su again, that would be fatal for a number of packages.
