@@ -1,0 +1,18 @@
+Source: kanotix2sidux
+Section: admin
+Priority: extra
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: kanotix-irc
+Architecture: all
+Depends: sidux-irc
+Description: allow an easy transition between kanotix and sidux
+ this is juast a transitional dummy package, remove me after usage.
+
+Package: kanotix-su
+Architecture: all
+Depends: su-me
+Description: allow an easy transition between kanotix and sidux
+ this is juast a transitional dummy package, remove me after usage.
