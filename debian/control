@@ -23,3 +23,15 @@ Depends: sidux-keyrings
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: kanotix-kernelhacking
+Architecture: all
+Depends: sidux-kernelhacking
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
+Package: kanotix-modules
+Architecture: all
+Depends: sidux-modules
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+

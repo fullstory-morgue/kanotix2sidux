@@ -1,8 +1,8 @@
-kanotix2sidux (5:0.5) UNRELEASED; urgency=low
+kanotix2sidux (5:0.5) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * add sidux-kernelhacking, sidux-modules.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 29 Nov 2006 21:39:08 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Nov 2006 00:11:40 +0100
 
 kanotix2sidux (5:0.4) unstable; urgency=low
 
