@@ -1,8 +1,8 @@
-kanotix2sidux (5:0.6) UNRELEASED; urgency=low
+kanotix2sidux (5:0.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * add busybox-sidux, conflict with kanotix-terminalserver.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 30 Nov 2006 00:13:49 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat,  2 Dec 2006 01:17:52 +0100
 
 kanotix2sidux (5:0.5) unstable; urgency=low
 
