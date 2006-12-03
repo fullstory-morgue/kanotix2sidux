@@ -48,3 +48,9 @@ Depends: configure-freenx
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: kanotix-menu
+Architecture: all
+Depends: sidux-menu
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+

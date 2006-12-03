@@ -1,8 +1,8 @@
 kanotix2sidux (5:0.7) unstable; urgency=low
 
-  * nxsetup-kanotix --> configure-freenx.
+  * kanotix-menu --> sidux-menu.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  3 Dec 2006 01:20:12 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  3 Dec 2006 01:21:56 +0100
 
 kanotix2sidux (5:0.6) unstable; urgency=low
 
