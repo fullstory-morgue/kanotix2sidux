@@ -5,6 +5,13 @@ Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
 
+Package: busybox-kanotix
+Architecture: all
+Depends: busybox-sidux
+Conflicts: kanotix-terminalserver
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: checkmem-kanotix
 Architecture: all
 Depends: checkmem
@@ -23,12 +30,12 @@ Depends: configure-xawtv
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
-Package: busybox-kanotix
+Package: ddcxinfo-kanotix
 Architecture: all
-Depends: busybox-sidux
-Conflicts: kanotix-terminalserver
+Depends: ddcxinfo-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
+
 
 Package: kanotix-dsl
 Architecture: all
