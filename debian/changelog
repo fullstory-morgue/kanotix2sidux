@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.39) unstable; urgency=low
+
+  * sshstart-kanotix --> sshstart-sidux.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:25:53 +0100
+
 kanotix2sidux (5:0.38) unstable; urgency=low
 
   * smbconf-kanotix --> smbconf-sidux.
