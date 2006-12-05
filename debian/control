@@ -234,3 +234,9 @@ Depends: saveconfig
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: scanpartitions-kanotix
+Architecture: all
+Depends: scanpartitions
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
