@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.31) unstable; urgency=low
+
+  * networkconfig-kanotix --> networkconfig-sidux
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:14:46 +0100
+
 kanotix2sidux (5:0.30) unstable; urgency=low
 
   * netcardconfig-kanotix --> configure-networkcard.
