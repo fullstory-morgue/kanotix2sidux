@@ -102,6 +102,12 @@ Depends: sidux-modules
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: kanotix-ndiswrapper
+Architecture: all
+Depends: configure-ndiswrapper
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: nxsetup-kanotix
 Architecture: all
 Depends: configure-freenx

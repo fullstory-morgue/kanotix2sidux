@@ -1,8 +1,14 @@
+kanotix2sidux (5:0.16) unstable; urgency=low
+
+  * kanotix-ndiswrapper --> configure-ndiswrapper
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:49:06 +0100
+
 kanotix2sidux (5:0.15) unstable; urgency=low
 
   * kanotix-isdn --> configure-isdn.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:47:39 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:48:43 +0100
 
 kanotix2sidux (5:0.14) unstable; urgency=low
 
