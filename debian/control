@@ -36,6 +36,11 @@ Depends: ddcxinfo-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: etcskel-kanotix
+Architecture: all
+Depends: etcskel-sidux
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
 
 Package: kanotix-dsl
 Architecture: all

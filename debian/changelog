@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.12) unstable; urgency=low
+
+  * etcskel-kanotix --> etcskel-sidux.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:42:17 +0100
+
 kanotix2sidux (5:0.11) unstable; urgency=low
 
   * ddcxinfo-kanotix --> ddcxinfo-sidux.
