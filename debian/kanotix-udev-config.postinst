@@ -2,5 +2,7 @@
 
 rm -f /etc/modprobe.d/kanotix
 
+#DEBHELPER#
+
 exit 0
 
