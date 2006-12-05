@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.13) unstable; urgency=low
+
+  * gprsconnect-kanotix --> configure-gprs.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:44:08 +0100
+
 kanotix2sidux (5:0.12) unstable; urgency=low
 
   * etcskel-kanotix --> etcskel-sidux.
