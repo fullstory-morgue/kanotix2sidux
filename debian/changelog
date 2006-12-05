@@ -1,8 +1,14 @@
+kanotix2sidux (5:0.28) unstable; urgency=low
+
+  * modemlink-kanotix --> configure-modemlink.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:09:43 +0100
+
 kanotix2sidux (5:0.27) unstable; urgency=low
 
   * mkpersistenthome-kanotix --> mkpersistenthome.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:06:20 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:09:38 +0100
 
 kanotix2sidux (5:0.26) unstable; urgency=low
 
