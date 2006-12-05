@@ -228,4 +228,9 @@ Depends: sambastart-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: saveconfig-kanotix
+Architecture: all
+Depends: saveconfig
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
 
