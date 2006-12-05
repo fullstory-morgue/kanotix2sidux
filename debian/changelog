@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.20) unstable; urgency=low
+
+  * kanotix-setpassword --> sidux-setpassword.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:54:22 +0100
+
 kanotix2sidux (5:0.19) unstable; urgency=low
 
   * kanotix-searchplugins --> sidux-searchplugins.
