@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.14) unstable; urgency=low
+
+  * initscripts-kanotix-live --> initscripts-sidux-live.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:46:08 +0100
+
 kanotix2sidux (5:0.13) unstable; urgency=low
 
   * gprsconnect-kanotix --> configure-gprs.

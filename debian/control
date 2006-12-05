@@ -48,6 +48,12 @@ Depends: configure-gprs
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: initscripts-kanotix-live
+Architecture: all
+Depends: initscripts-sidux-live
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: kanotix-dsl
 Architecture: all
 Depends: configure-dsl
