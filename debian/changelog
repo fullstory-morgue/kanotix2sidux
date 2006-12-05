@@ -1,8 +1,14 @@
+kanotix2sidux (5:0.10) unstable; urgency=low
+
+  * checkmem-kanotix --> checkmem.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:16:02 +0100
+
 kanotix2sidux (5:0.9) unstable; urgency=low
 
   * cupsconfig-kanotix --> configure-cups.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun,  3 Dec 2006 01:35:05 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 20:15:56 +0100
 
 kanotix2sidux (5:0.8) unstable; urgency=low
 

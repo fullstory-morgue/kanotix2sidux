@@ -5,9 +5,46 @@ Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
 
+Package: checkmem-kanotix
+Architecture: all
+Depends: checkmem
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
+Package: cupsconfig-kanotix
+Architecture: all
+Depends: configure-cups
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
+Package: configure-xawtv-kanotix
+Architecture: all
+Depends: configure-xawtv
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
+Package: busybox-kanotix
+Architecture: all
+Depends: busybox-sidux
+Conflicts: kanotix-terminalserver
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
+Package: kanotix-dsl
+Architecture: all
+Depends: configure-dsl
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: kanotix-irc
 Architecture: all
 Depends: sidux-irc
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
+Package: kanotix-kernelhacking
+Architecture: all
+Depends: sidux-kernelhacking
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
@@ -23,9 +60,9 @@ Depends: sidux-keyrings
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
-Package: kanotix-kernelhacking
+Package: kanotix-menu
 Architecture: all
-Depends: sidux-kernelhacking
+Depends: sidux-menu
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
@@ -35,34 +72,8 @@ Depends: sidux-modules
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
-Package: busybox-kanotix
-Architecture: all
-Depends: busybox-sidux
-Conflicts: kanotix-terminalserver
-Description: allow an easy transition between kanotix and sidux
- this is just a transitional dummy package, remove me after usage.
-
 Package: nxsetup-kanotix
 Architecture: all
 Depends: configure-freenx
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
-
-Package: kanotix-menu
-Architecture: all
-Depends: sidux-menu
-Description: allow an easy transition between kanotix and sidux
- this is just a transitional dummy package, remove me after usage.
-
-Package: kanotix-dsl
-Architecture: all
-Depends: configure-dsl
-Description: allow an easy transition between kanotix and sidux
- this is just a transitional dummy package, remove me after usage.
-
-Package: cupsconfig-kanotix
-Architecture: all
-Depends: configure-cups
-Description: allow an easy transition between kanotix and sidux
- this is just a transitional dummy package, remove me after usage.
-
