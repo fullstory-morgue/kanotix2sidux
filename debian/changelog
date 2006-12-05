@@ -1,3 +1,9 @@
+kanotix2sidux (5:1.1) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 22:23:28 +0100
+
 kanotix2sidux (5:1.0) unstable; urgency=low
 
   * add #DEBHELPER# token to kanotix-modemlink.
