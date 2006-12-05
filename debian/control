@@ -66,6 +66,12 @@ Depends: sidux-irc
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: kanotix-isdn
+Architecture: all
+Depends: configure-isdn
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: kanotix-kernelhacking
 Architecture: all
 Depends: sidux-kernelhacking
