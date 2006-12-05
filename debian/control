@@ -108,6 +108,12 @@ Depends: configure-ndiswrapper
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: kanotix-screenres
+Architecture: all
+Depends: configure-screenres
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: nxsetup-kanotix
 Architecture: all
 Depends: configure-freenx
