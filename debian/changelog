@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.43) unstable; urgency=low
+
+  * xf86config-kanotix --> xorgconfig-sidux.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:30:40 +0100
+
 kanotix2sidux (5:0.42) unstable; urgency=low
 
   * user-profile-kanotix --> user-profile-sidux.
