@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.29) unstable; urgency=low
+
+  * mouseconfig-kanotix --> configure-mouse.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:10:34 +0100
+
 kanotix2sidux (5:0.28) unstable; urgency=low
 
   * modemlink-kanotix --> configure-modemlink.
