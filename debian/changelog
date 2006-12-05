@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.34) unstable; urgency=low
+
+  * rootshell-kanotix --> rootshell
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:20:51 +0100
+
 kanotix2sidux (5:0.33) unstable; urgency=low
 
   * rebuildfstab-kanotix --> rebuildfstab.

@@ -216,3 +216,9 @@ Depends: rebuildfstab
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: rootshell-kanotix
+Architecture: all
+Depends: rootshell
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
