@@ -155,7 +155,13 @@ Architecture: all
 Depends: kdeservicemenus-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
- 
+
+Package: kde-services-kanotix
+Architecture: all
+Depends: kde-services-sidux
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
 Package: nxsetup-kanotix
 Architecture: all
 Depends: configure-freenx
