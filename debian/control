@@ -203,3 +203,10 @@ Architecture: all
 Depends: configure-freenx
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
+
+Package: ppp-scripts-kanotix
+Architecture: all
+Depends: ppp-scripts
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
