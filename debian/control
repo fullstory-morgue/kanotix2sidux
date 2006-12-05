@@ -210,3 +210,9 @@ Depends: ppp-scripts
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
+Package: rebuildfstab-kanotix
+Architecture: all
+Depends: rebuildfstab
+Description: allow an easy transition between kanotix and sidux
+ this is just a transitional dummy package, remove me after usage.
+
