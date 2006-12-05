@@ -1,3 +1,9 @@
+kanotix2sidux (5:0.23) unstable; urgency=low
+
+  * kbdconfig-kanotix --> configure-keyboard.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 21:00:54 +0100
+
 kanotix2sidux (5:0.22) unstable; urgency=low
 
   * kanotix-udev-config --> udev-config-sidux.
