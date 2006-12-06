@@ -1,8 +1,9 @@
-kanotix2sidux (5:1.1) UNRELEASED; urgency=low
+kanotix2sidux (5:1.1) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * dpkg-divert in configure-xawtv* is broken, allow dist-upgrading for now
+    und til we can fix it properly.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue,  5 Dec 2006 22:23:28 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed,  6 Dec 2006 02:50:51 +0100
 
 kanotix2sidux (5:1.0) unstable; urgency=low
 
