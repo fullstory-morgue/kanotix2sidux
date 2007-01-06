@@ -278,7 +278,7 @@ Description: allow an easy transition between kanotix and sidux
 
 Package: xsession-initscript-kanotix
 Architecture: all
-Depends: xsession-initscript-sidux
+Depends: xsession-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
