@@ -146,7 +146,6 @@ Description: allow an easy transition between kanotix and sidux
 
 Package: kbdconfig-kanotix
 Architecture: all
-Depends: configure-keyboard
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
