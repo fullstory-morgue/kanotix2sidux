@@ -1,8 +1,8 @@
-kanotix2sidux (5:1.4) UNRELEASED; urgency=low
+kanotix2sidux (5:1.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * sambastart-sidux and smbconf-sidux don't exist anymore.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 17 Jan 2007 16:50:40 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 18 Jan 2007 11:36:20 +0100
 
 kanotix2sidux (5:1.3) unstable; urgency=low
 

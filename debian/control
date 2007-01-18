@@ -223,7 +223,6 @@ Description: allow an easy transition between kanotix and sidux
 
 Package: sambastart-kanotix
 Architecture: all
-Depends: sambastart-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
@@ -241,7 +240,6 @@ Description: allow an easy transition between kanotix and sidux
 
 Package: smbconf-kanotix
 Architecture: all
-Depends: smbconf-sidux
 Description: allow an easy transition between kanotix and sidux
  this is just a transitional dummy package, remove me after usage.
 
